@@ -52,7 +52,7 @@ const App: React.FC = () => {
       {/* 主容器 */}
       <div className="max-w-md w-full space-y-6 bg-white p-8 rounded-lg shadow-lg">
         <div className="text-center">
-          <h1 className="text-2xl font-bold text-gray-900">二维码生成器</h1>
+          <h1 className="text-2xl font-bold text-gray-900">本地二维码生成器，绝无上传</h1>
           <p className="text-gray-600 mt-2">输入任意字符串（例如 URL 或文本），生成二维码。</p>
         </div>
 
