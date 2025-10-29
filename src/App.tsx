@@ -94,7 +94,7 @@ const App: React.FC = () => {
         <p className="text-xs text-gray-500">
           本项目基于 React + Tailwind CSS + TypeScript + shadcn/ui 构建。{" "}
           <a
-            href="https://github.com/yourusername/qr-generator"
+            href="https://github.com/lucyTrump/qrcode-for-open"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline">
